@@ -1,0 +1,130 @@
+*{
+font-family: 'Quicksand', sans-serif;
+background-color:#1c0021 ;
+/*imagen*/
+background-color:#ececec;
+background-size: cover;
+background-repeat: no-repeat;
+}
+nav{
+    text-align: right;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a {
+    text-decoration: none;
+}
+h1{
+    color: #284269;
+} 
+h2{
+    color: #284269;
+} 
+p{color:#284269;}
+/* selector de clae*/
+.ods{
+    height: 80px;
+    text-align: left;
+
+}
+.ods1{
+    
+    border-radius: 20px;
+    align-items: left;
+    font-size: 12px;
+}
+
+.contenido{
+    color: #000000;
+
+}
+.subtitulo1 {
+    color: #E5243B;
+}
+.subtitulo2 {
+    color: #DDA63A;
+}
+.subtitulo3 {
+    color: #4C9F38;
+}
+.subtitulo4 {
+    color: #C5192D;
+}
+.subtitulo5 {
+    color: #FF3A21;
+}
+.subtitulo6 {
+    color: #26BDE2;
+}
+.subtitulo7 {
+    color: #FCC30B;
+}
+.subtitulo8 {
+    color: #A21942;
+}
+.subtitulo9 {
+    color: #FD6925;
+}
+.subtitulo10 {
+    color: #DD1367;
+}
+.subtitulo11 {
+    color: #FD9D24;
+}
+.subtitulo12 {
+    color: #BF8B2E;
+}
+.subtitulo13 {
+    color: #3B7F42;
+}
+.subtitulo14 {
+    color: #0A97D9;
+}
+.subtitulo15 {
+    color: #56C02B;
+}
+.subtitulo16 {
+    color: #00689D;
+}
+.subtitulo17 {
+    color: #19486A;
+}
+ 
+
+#inicio{
+    height: 200px;
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+}
+
+.compromiso1 {
+    font-family: 'Capriola', sans-serif;
+    font-family: 'Kosugi Maru', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+text-align: justify;
+}
+.yes {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #194756;
+    cursor: pointer;
+}
+  
+  .styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+  }
+  
+  .styled:active {
+    box-shadow: #84abaa;
+  }
